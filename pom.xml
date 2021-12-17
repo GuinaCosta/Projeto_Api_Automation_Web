@@ -27,7 +27,7 @@
 		<spring-security-jwt.version>1.0.9.RELEASE</spring-security-jwt.version>
 		
 		<jasperreports.version>6.5.1</jasperreports.version>
-        <jasperreports-functions.version>6.5.1</jasperreports-functions.version>
+        <jasperreports-functions.version>6.18.1</jasperreports-functions.version>
         <jasperreports-fonts.version>6.0.0</jasperreports-fonts.version>
         
         <aws-java-sdk.version>1.11.274</aws-java-sdk.version>
