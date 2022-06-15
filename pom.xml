@@ -30,7 +30,7 @@
         <jasperreports-functions.version>6.5.1</jasperreports-functions.version>
         <jasperreports-fonts.version>6.0.0</jasperreports-fonts.version>
         
-        <aws-java-sdk.version>1.11.274</aws-java-sdk.version>
+        <aws-java-sdk.version>1.12.240</aws-java-sdk.version>
 	</properties>
 
 	<dependencies>
